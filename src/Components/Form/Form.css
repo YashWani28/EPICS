@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+  font-family: "Poppins", sans-serif;
+  margin:0px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-inline: 200px;
+  background-image: url('./bg.png'); 
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+.question {
+  margin-bottom: 10px;
+  font-size: xx-large;
+  line-height: 60px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  font-size: x-large;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: rgb(199, 198, 198);
+  line-height: 40px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #0f107f;
+  color: #fff;
+  font-size: large;
+  border-radius: 8px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.buttons {
+  display: flex;
+  margin-inline: 20px;
+  justify-content: space-between;
+  align-items: end;
+  margin-top: 350px;
+}
