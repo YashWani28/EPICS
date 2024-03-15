@@ -106,8 +106,8 @@ input[type="password"] {
     width: 100%;
     padding: 10px;
     background-color: #fff;
-    color: #757575;
-    border: 1px solid #ddd;
+    color: #3c40c6;
+    border: 1px solid #3c40c6;
     border-radius: 5px;
     font-size: 16px;
     cursor: pointer;
@@ -120,6 +120,7 @@ input[type="password"] {
     transform: scale(1.1);
     border-radius: 100px;
     transition-duration: 100ms;
+    background-color: #3c40c6;
 }
 .google-btn img {
     width: 20px;

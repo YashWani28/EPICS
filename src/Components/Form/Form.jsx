@@ -56,14 +56,14 @@ const Form = () => {
       <br />
 
       <div className="buttons">
-        <button onClick={handlePrevious} disabled={currentQuestionIndex === 0}>
+        <button class="kformbtn" onClick={handlePrevious} disabled={currentQuestionIndex === 0}>
           Previous
         </button>
         {currentQuestionIndex !== questions.length - 1 && (
-          <button onClick={handleNext}>Next</button>
+          <button class="kformbtn" onClick={handleNext}>Next</button>
         )}
         {currentQuestionIndex === questions.length - 1 && (
-          <button onClick={handleSubmit}>Submit</button>
+          <button class="kformbtn" onClick={handleSubmit}>Submit</button>
         )}
       </div>
     </div>
