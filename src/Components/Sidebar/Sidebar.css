@@ -1,0 +1,86 @@
+.sidebarparent {
+    
+    background-color:  #0f107f;
+    display: flex;
+    max-width: 76px;
+    flex-direction: column;
+    padding: 18px 16px;
+    height:fit-content;
+  }
+  .img {
+    aspect-ratio: 1.1;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+    align-self: center;
+  }
+  .y_iconbtns{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 10px;
+  }
+  .div-2 {
+    align-items: center;
+    display: flex;
+    margin-top: auto;
+    flex-direction: column;
+    padding: 6px;
+    
+  }
+  .img-2 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+    margin-top: 28px;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+    margin-top: 28px;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+    margin-top: 28px;
+  }
+  .img-6 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+    margin-top: 28px;
+  }
+  .div-3 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 6px;
+    margin-top: 37vh;
+    
+
+  }
+  .img-7 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+  }
+  .img-8 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+    margin-top: 28px;
+  }

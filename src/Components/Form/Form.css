@@ -26,7 +26,7 @@
   line-height: 60px;
 }
 
-input[type="text"] {
+#qfield {
   width: 100%;
   padding: 8px;
   font-size: x-large;
