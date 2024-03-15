@@ -5,14 +5,39 @@
     max-width: 76px;
     flex-direction: column;
     padding: 18px 16px;
-    height:fit-content;
+    height:100vh;
+    /* position: absolute;
+    left: 0; */
+    
   }
+  .sidebarparent button {
+    background-color: transparent; /* Set the background color of buttons to transparent */
+    border: none; /* Remove any border */
+    height:min-content; /* Ensure aspect ratio is maintained */
+    outline: none;
+  }
+  .sidebarparent button:hover {
+    transition: 20ms;
+    transform: scale(1.1);
+  }
+  .sidebarparent img:active {
+    background-color:rgb(68, 111, 149);
+  }
+
+  .sidebarparent button img {
+    width: 100%; /* Set image width to 100% */
+    height: fi; /* Ensure aspect ratio is maintained */
+    border-radius: 10px;
+    padding: 3px;
+  }
+
   .img {
     aspect-ratio: 1.1;
     object-fit: auto;
     object-position: center;
     width: 100%;
     align-self: center;
+    
   }
   .y_iconbtns{
     display: flex;
