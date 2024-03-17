@@ -1,4 +1,23 @@
 .journalparent{
     display: flex;
+    /* justify-content: space-between; */
+    gap:73px;
     
+}
+.yJournalRightSection{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    
+}
+.yThreeParent
+{
+    display: flex;
+    gap:43px;
+    
+}
+.yCalendar_JournalMenu{
+    display: flex;
+    flex-direction: column;
+    gap:30px;
 }

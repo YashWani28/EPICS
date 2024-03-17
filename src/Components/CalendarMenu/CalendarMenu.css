@@ -1,0 +1,194 @@
+.yCalendarMenudiv {
+    justify-content: center;
+    display: flex;
+    max-width: 306px;
+    flex-direction: column;
+  }
+  .yCalendarMenudiv-2 {
+    justify-content: space-between;
+    border-radius: 8px;
+    background-color: var(--Color-7, #f5f5f5);
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    padding: 12px;
+    margin-bottom: 7px;
+  }
+  .yCalendarMenudiv-3 {
+    display: flex;
+    gap: 16px;
+    font-weight: 400;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 40px;
+    margin: auto 0;
+  }
+  .yCalendarMenudiv-4 {
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .yCalendarMenudiv-5 {
+    color: var(--Color-6, #181818);
+    font: 16px Poppins, sans-serif;
+  }
+  .yCalendarMenudiv-6 {
+    color: var(--Color-4, #dcdcdc);
+    margin-top: 4px;
+    font: 12px Poppins, sans-serif;
+  }
+  .yCalendarMenudiv-7 {
+    align-items: center;
+    border-radius: 999px;
+    background-color: var(--Color-5, #fff);
+    display: flex;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    margin: auto 0;
+    border:none;
+    padding: 0 8px;
+  }
+  .yCalendarMenudiv-7:hover{
+    background-color: var(--Color-5, #c7c3c3);
+  }
+  .yCalendarMenudiv-7:active{
+    background-color: var(--Color-5, #7f7f7f);
+  }
+  .img-2 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+  }
+  .yCalendarMenudiv-8 {
+    justify-content: space-between;
+    border-radius: 8px;
+    background-color: var(--Color-7, #f5f5f5);
+    display: flex;
+    margin-top: 31px;
+    width: 100%;
+    gap: 20px;
+    padding: 12px;
+  }
+  .yCalendarMenudiv-9 {
+    display: flex;
+    gap: 16px;
+    font-weight: 400;
+  }
+  .yCalendarMenudiv-10 {
+    display: flex;
+    flex-direction: column;
+  }
+  .yCalendarMenudiv-11 {
+    color: var(--Color-6, #181818);
+    font: 16px Poppins, sans-serif;
+  }
+  .yCalendarMenudiv-12 {
+    color: var(--Color-4, #dcdcdc);
+    margin-top: 4px;
+    font: 12px Poppins, sans-serif;
+  }
+  .yCalendarMenudiv-13 {
+    align-items: center;
+    border-radius: 999px;
+    background-color: var(--Color-5, #fff);
+    display: flex;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    margin: auto 0;
+    padding: 0 8px;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+  }
+  .yCalendarMenudiv-14 {
+    justify-content: space-between;
+    border-radius: 8px;
+    background-color: var(--Color-7, #f5f5f5);
+    display: flex;
+    margin-top: 31px;
+    width: 100%;
+    gap: 20px;
+    padding: 12px;
+  }
+  .yCalendarMenudiv-15 {
+    display: flex;
+    gap: 16px;
+    font-weight: 400;
+  }
+  .yCalendarMenudiv-16 {
+    display: flex;
+    flex-direction: column;
+  }
+  .yCalendarMenudiv-17 {
+    color: var(--Color-6, #181818);
+    font: 16px Poppins, sans-serif;
+  }
+  .yCalendarMenudiv-18 {
+    color: var(--Color-4, #dcdcdc);
+    margin-top: 4px;
+    font: 12px Poppins, sans-serif;
+  }
+  .yCalendarMenudiv-19 {
+    align-items: center;
+    border-radius: 999px;
+    background-color: var(--Color-5, #fff);
+    display: flex;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    margin: auto 0;
+    padding: 0 8px;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+  }
+  .yCalendarMenudiv-20 {
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background-color: var(--Color-4, #dcdcdc);
+    display: flex;
+    margin-top: 31px;
+    width: 100%;
+    font-size: 20px;
+    color: var(--Color-5, #000000);
+    font-weight: 400;
+    white-space: nowrap;
+    padding: 8px 60px;
+    border:none;
+  }
+  .yCalendarMenudiv-20:hover{
+    background-color: var(--Color-4, #b1afaf);
+
+  }
+  .yCalendarMenudiv-20:active{
+    background-color: var(--Color-4, #7e7e7e);
+
+  }
+  .yCalendarMenudiv-21 {
+    display: flex;
+    gap: 12px;
+  }
+  .yCalendarMenudiv-22 {
+    font-family: Poppins, sans-serif;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 20px;
+    margin: auto 0;
+    
+  }

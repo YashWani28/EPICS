@@ -2,6 +2,7 @@ import './App.css'
 
 import Journal from './Screens/Journal/Journal';
 import Dashboard from './Screens/Dashboard/Dashboard';
+
 import * as ReactDOM from "react-dom/client";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
