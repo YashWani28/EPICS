@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Sidebar = () => {
     return (
         <div class="sidebarparent">
-            <button>
+            <button id="profilebtn">
                 <img
                     loading="lazy"
                     srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/9f7411dd61c27283f7f1b7813a3b3820c3f4989da6326bdc467ab7a9099e5a03?apiKey=7a1f66b58e1f4817835f6b70858090a7&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/9f7411dd61c27283f7f1b7813a3b3820c3f4989da6326bdc467ab7a9099e5a03?apiKey=7a1f66b58e1f4817835f6b70858090a7&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/9f7411dd61c27283f7f1b7813a3b3820c3f4989da6326bdc467ab7a9099e5a03?apiKey=7a1f66b58e1f4817835f6b70858090a7&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/9f7411dd61c27283f7f1b7813a3b3820c3f4989da6326bdc467ab7a9099e5a03?apiKey=7a1f66b58e1f4817835f6b70858090a7&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/9f7411dd61c27283f7f1b7813a3b3820c3f4989da6326bdc467ab7a9099e5a03?apiKey=7a1f66b58e1f4817835f6b70858090a7&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/9f7411dd61c27283f7f1b7813a3b3820c3f4989da6326bdc467ab7a9099e5a03?apiKey=7a1f66b58e1f4817835f6b70858090a7&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/9f7411dd61c27283f7f1b7813a3b3820c3f4989da6326bdc467ab7a9099e5a03?apiKey=7a1f66b58e1f4817835f6b70858090a7&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/9f7411dd61c27283f7f1b7813a3b3820c3f4989da6326bdc467ab7a9099e5a03?apiKey=7a1f66b58e1f4817835f6b70858090a7&"

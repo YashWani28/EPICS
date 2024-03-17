@@ -1,8 +1,5 @@
 import './App.css'
-import Form from './Components/Form/Form'
-import Login from './Components/Login/Login'
 
-import Navbar from './Components/Navbar/Navbar';
 import Journal from './Screens/Journal/Journal';
 import Dashboard from './Screens/Dashboard/Dashboard';
 import * as ReactDOM from "react-dom/client";
